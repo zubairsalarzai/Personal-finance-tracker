@@ -1,0 +1,26 @@
+date,amount,category,description
+20-09-2025,123.4,Income,Salary
+20-09-2025,123.4,Income,Salary
+23-04-2025,23.0,Expense,too much amount
+02-01-2025,343.0,Income,business
+20-09-2025,123.4,Income,Salary
+21-09-2025,45.99,Income,Walmart purchase
+22-09-2025,150.00,Income,Freelance project
+23-09-2025,60.25,Income,Electricity bill
+24-09-2025,25.00,Income,Movie tickets
+25-09-2025,300.00,Income,Monthly apartment rent
+26-09-2025,12.75,Expense,Bus fare
+27-09-2025,80.00,Expense,Clothing store
+28-09-2025,18.50,Expense,Restaurant lunch
+29-09-2025,200.00,Income,Bonus
+30-09-2025,9.99,Income,Music streaming
+01-10-2025,50.00,Expense,Pharmacy purchase
+02-10-2025,100.00,Income,Transferred to savings
+03-10-2025,35.00,Expense,Online course
+04-10-2025,75.00,Expense,Concert tickets
+05-10-2025,45.20,Income,Trader Joe's
+06-10-2025,60.00,Income,Ride share
+07-10-2025,125.00,Income,Side hustle
+08-10-2025,14.30,Expense,Takeout dinner
+09-10-2025,19.99,Expense,TV streaming service
+10-10-2025,300.00,Income,Monthly apartment rent
